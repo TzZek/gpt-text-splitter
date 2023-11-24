@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ChatGPT Text Splitter Chrome Extension
 
 This Chrome extension is designed to enhance the experience of interacting with OpenAI's ChatGPT. It allows users to input long text and splits it into manageable chunks that comply with ChatGPT's token limits. Each chunk can then be automatically inserted and sent to ChatGPT in a sequence, making it easier to work with lengthy text inputs.
@@ -27,4 +26,3 @@ This project is open-sourced under the MIT License. See the LICENSE file for mor
 =======
 # gpt-text-splitter
 Chrome extension for splitting and inputting text into ChatGPT efficiently.
->>>>>>> origin/main
