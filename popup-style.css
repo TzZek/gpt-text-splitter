@@ -28,17 +28,19 @@ textarea {
     padding: 5px;
     font-size: 14px;
     box-sizing: border-box; /* Include padding and borders in the width and height */
+    resize: vertical;
 }
 
 button {
     background-color: #45a06e;
     color: white;
-    padding: 10px 15px;
+    padding: 5px 15px;
     margin: 5px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
     transition: background-color 0.3s;
+    width: 100%;
 }
 
 button:hover {
